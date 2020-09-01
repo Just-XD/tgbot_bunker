@@ -12,7 +12,7 @@ import getPlayerInfo as gpi
 import helper as h
 import bunker as b
 
-TOKEN = '1321552674:AAGE1WPNYZswJDifGdtJjakG2dPp9UJh2tE'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
